@@ -51,4 +51,9 @@
 ## Push Branch
 > git push origin <name_branch>
 
-## 
+## Delete Branch
+> git branch -D <name_branch>
+
+## Download Branch to Local to Run
+> git fetch <name_branch>
+
