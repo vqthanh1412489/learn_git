@@ -10,9 +10,9 @@
 > git status
 
 ## Add Changing to Staging Area
-> git add
-> git add . (Add all file)
-> git add <file_name> (Add any file with name)
+> git add\
+> git add . (Add all file)\
+> git add <file_name> (Add any file with name)\
 
 ## Show History Commit
 > git log
